@@ -25,3 +25,17 @@
 
 !['welcome'](./img/login.PNG)
 
+# Verificación de datos en Firebase
+
+### Usuarios
+
+<p>Los usuario registrados se encuentran alemacenados en firebase.</p>
+
+!['users'](./img/usersFirebas.PNG)
+
+### Información de los Usuarios
+
+<p>La información  de los usuario registrados se encuentran alemacenados en nuestra base de datos.</p>
+
+!['users'](./img/datesUserFirebase.PNG)
+
