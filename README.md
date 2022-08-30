@@ -8,4 +8,20 @@
 
 <hr/>
 
-!['admin interface login'](./img/login.PNG)  
+### Login de Usuario (Inicio de Sesión)
+
+!['login'](./img/login.PNG)  
+
+### Registro de Usuario
+
+!['register'](./img/register.PNG)
+
+# Funcionalidad 
+<p>Para verificar que los datos ingresados se guarden en nuestra realtime data base, registraremoso un nuevo usuario</p>
+
+!['new register'](./img/registerdates.PNG)
+
+### Ingreso éxitoso
+
+!['welcome'](./img/login.PNG)
+
