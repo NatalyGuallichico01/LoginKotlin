@@ -47,7 +47,21 @@
 
 - Diseño de Login de Usuario
 
+!['design login'](./img/desingLogin.PNG)
+
+- Diseño de Registro de Usuario
+
+!['desing register'](./img/desingRegister.PNG)
+
+- Diseño de Bienvenida
+
+!['desing welcome'](./img/desingWelcome.PNG)
 
 
 ### Funcionalidad
+
+<p>El código de la funcionalidad implementada para este proyecto se encuentra en la ruta <em>app/java/com.exaple.loginkotlin</em> </p>
+
+!['codigo'](./img/codigo.PNG)
+
 
