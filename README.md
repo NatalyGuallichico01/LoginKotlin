@@ -23,7 +23,7 @@
 
 ### Ingreso éxitoso
 
-!['welcome'](./img/login.PNG)
+!['welcome'](./img/welcome.PNG)
 
 # Verificación de datos en Firebase
 
@@ -38,4 +38,16 @@
 <p>La información  de los usuario registrados se encuentran alemacenados en nuestra base de datos.</p>
 
 !['users'](./img/datesUserFirebase.PNG)
+
+# Código del proyecto 
+
+### Diseño
+
+<p>El diseño de la implementacion se lo realizo mediante la funcion drag an drop</p>
+
+- Diseño de Login de Usuario
+
+
+
+### Funcionalidad
 
